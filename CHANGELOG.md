@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.0 (2025-10-27)
+
+
+### Features
+
+* customize page ([7eb2ff5](https://github.com/levin-fankhauser/m324-nginx-clone/commit/7eb2ff5bd6484af65bdb0f111bffb3be512d3a7f))
+
+
+### Bug Fixes
+
+* ecr creation when empty ([5c49543](https://github.com/levin-fankhauser/m324-nginx-clone/commit/5c49543adb467e72bc972021266eeb1497c066ef))
+
 ## [1.3.0](https://github.com/herrhodel/modul-324-muster/compare/v1.2.3...v1.3.0) (2025-08-08)
 
 
